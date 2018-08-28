@@ -4,7 +4,7 @@ import './GameInfo.css'
 const GameInfo = () => {
   return (
     <div style={{textAlign: 'center'}}>
-      <span>$115 R/W</span><br></br>
+      <span>-----</span><br></br>
       <span>NBC 7:20p 12/16/18</span><br/>
       <span>NO PAY NO PLAY</span>
 
