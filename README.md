@@ -2,7 +2,7 @@
 
 In my work place I see these square with numbers on them and names of football teams.  I just wanted to write a app the would generate these squares.  
 
-![Alt text](/public/footballsquares.png?raw=true "Optional Title")
+![Alt text](https://raw.github.com/jzapata87/football-squares/master/public/footallsquares.png "Optional Title")
 
 
 ## Built With
